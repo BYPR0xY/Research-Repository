@@ -1,10 +1,15 @@
 # Research-Repository
 
-git clone
+git clone url = clone the repository from github
 
-ls
+ls = list files
 
-cd "located folder"
+cd "located folder" = change directory to whatever folder u using
 
-code .
+code . = opens vsc
 
+git status = checks what changes
+
+git add .&& git commit -m "update description"
+
+git push origin main = publishes to github
